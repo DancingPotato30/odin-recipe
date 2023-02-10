@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(0, 139, 170);
+    background-color: rgb(180, 180, 255);
 }
 
 .title{
@@ -8,4 +8,10 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(10, 225, 225);
     text-align: center;
+}
+
+.links{
+    font-size: 25px;
+    font-family: Arial;
+
 }
